@@ -1,0 +1,4 @@
+package content
+
+func generics() {
+}
