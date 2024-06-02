@@ -1,3 +1,3 @@
-module github.com/nauxnam/golang/content
+module content
 
 go 1.22.3
